@@ -1,0 +1,25 @@
+## FicTrac config file (build Mar  7 2020)
+c2a_cnrs_xy      : { 576, 431, 177, 450, 162, 134, 547, 118 }
+c2a_r            : { 0.512350, -0.483870, -1.458571 }
+c2a_src          : c2a_cnrs_xy
+c2a_t            : { 0.014006, 0.031016, 44.010185 }
+do_display       : y
+max_bad_frames   : -1
+opt_bound        : 0.35
+opt_do_global    : n
+opt_max_err      : -1.000000
+opt_max_evals    : 50
+opt_tol          : 0.001
+q_factor         : 6
+roi_c            : { 0.000291, -0.003262, 0.999995 }
+roi_circ         : { 326, 110, 465, 166, 255, 226 }
+roi_ignr         : { { 467, 176, 367, 194, 252, 171, 254, 81, 471, 80 } }
+roi_r            : 0.006407
+save_debug       : y
+save_raw         : y
+src_fn           : 0
+src_fps          : -1.000000
+thr_ratio        : 1.25
+thr_win_pc       : 0.25
+vfov             : 1.79
+vid_codec        : h264
