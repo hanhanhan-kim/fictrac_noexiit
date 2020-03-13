@@ -1,0 +1,20 @@
+CMakeFiles/fictrac.dir/exec/fictrac.cpp.o: \
+ /home/platyusa/src/fictrac_noexiit/exec/fictrac.cpp \
+ /home/platyusa/src/fictrac_noexiit/include/Logger.h \
+ /home/platyusa/src/fictrac_noexiit/include/Recorder.h \
+ /home/platyusa/src/fictrac_noexiit/include/RecorderInterface.h \
+ /home/platyusa/src/fictrac_noexiit/include/Trackball.h \
+ /home/platyusa/src/fictrac_noexiit/include/typesvars.h \
+ /home/platyusa/src/fictrac_noexiit/include/CmPoint.h \
+ /home/platyusa/src/fictrac_noexiit/include/Localiser.h \
+ /home/platyusa/src/fictrac_noexiit/include/NLoptFunc.h \
+ /home/platyusa/src/fictrac_noexiit/include/CameraModel.h \
+ /home/platyusa/src/fictrac_noexiit/include/SharedPointers.h \
+ /home/platyusa/src/fictrac_noexiit/include/FrameGrabber.h \
+ /home/platyusa/src/fictrac_noexiit/include/CameraRemap.h \
+ /home/platyusa/src/fictrac_noexiit/include/Remapper.h \
+ /home/platyusa/src/fictrac_noexiit/include/FrameSource.h \
+ /home/platyusa/src/fictrac_noexiit/include/ConfigParser.h \
+ /home/platyusa/src/fictrac_noexiit/include/timing.h \
+ /home/platyusa/src/fictrac_noexiit/include/misc.h \
+ /home/platyusa/src/fictrac_noexiit/include/fictrac_version.h

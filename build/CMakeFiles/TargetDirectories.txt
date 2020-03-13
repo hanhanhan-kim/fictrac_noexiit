@@ -1,0 +1,5 @@
+/home/platyusa/src/fictrac_noexiit/build/CMakeFiles/rebuild_cache.dir
+/home/platyusa/src/fictrac_noexiit/build/CMakeFiles/edit_cache.dir
+/home/platyusa/src/fictrac_noexiit/build/CMakeFiles/fictrac.dir
+/home/platyusa/src/fictrac_noexiit/build/CMakeFiles/fictrac_core.dir
+/home/platyusa/src/fictrac_noexiit/build/CMakeFiles/configGui.dir
