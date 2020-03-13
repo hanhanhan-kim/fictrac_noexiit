@@ -1,0 +1,3 @@
+cmake -D CMAKE_TOOLCHAIN_FILE=/home/platyusa/src/vcpkg/scripts/buildsystems/vcpkg.cmake .. -D PGR_USB3=ON -D PGR_DIR="/home/platyusa/src/spinnaker-1.27.0.48-amd64/"
+
+cmake --build . --config Release -- -j 4
