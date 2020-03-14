@@ -74,7 +74,7 @@ PGRSource::PGRSource(int index)
             std::cout << "Unable to set Buffer Handling mode (Entry retrieval). Aborting..." << std::endl << std::endl;
         }
         std::cout << std::endl << "Original Buffer Handling Mode: " << ptrHandlingModeEntry->GetDisplayName() << std::endl;
-        ptrHandlingModeEntry = ptrHandlingMode->GetEntryByName("NewestFirst");
+        ptrHandlingModeEntry = ptrHandlingMode->GetEntryByName("NewestOnly");
         ptrHandlingMode->SetIntValue(ptrHandlingModeEntry->GetValue());
         ptrHandlingModeEntry = ptrHandlingMode->GetCurrentEntry();
         if (!IsAvailable(ptrHandlingModeEntry) || !IsReadable(ptrHandlingModeEntry))
